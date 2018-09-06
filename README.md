@@ -31,7 +31,8 @@ You can configure the loadbalancer using the `appsettings.json`:
         ]
       }
     ]
-  }</code></pre>
+  }
+}</code></pre>
   
   ## Example usage
   I found it difficult to work with Azure Functions on a local staging server with domains and certificates. Thus I used this project in IIS to setup a proxy to the Azure Functions using the following config (and yes I know this could have been done with the original Microsoft.AspNetCore.Proxy as well):
