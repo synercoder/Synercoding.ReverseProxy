@@ -49,7 +49,8 @@ You can configure the loadbalancer using the `appsettings.json`:
         ]
       }
     ]
-  }</code></pre>
+  }
+}</code></pre>
   
   
   ## Licensing
